@@ -1,5 +1,5 @@
 # TESCO API
-The project demonstrates the Tesco web API, and the use of JSON to interpret the XML results.
+This project demonstrates the Tesco web API, and the use of JSON to interpret the XML results.
 
 The TESCO API (https://devportal.tescolabs.com/) allows developers to search the Tesco grocery product list for information such as product name, price and image.
 
@@ -8,7 +8,7 @@ To compile the program (1) Set up a developer account from https://devportal.tes
 To use the example program type in the name of an item of grocery item such as BANANA and click "Search".
 
 This project also demonstrates
-		(1)  how the windows cursor may be changed, 
+    (1)  how the windows cursor may be changed, 
     (2)  how the default button may be selected, 
     (3)  how to use a picturebox, 
     (4)  how to use a numericupdown, 
