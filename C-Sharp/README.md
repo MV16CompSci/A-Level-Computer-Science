@@ -1,2 +1,2 @@
 # C# Source Code
-C# Source Code should be uploaded here. Please create a new directory for all new source code.
+C# source code should be uploaded here. Please create a new directory for all new example source code.
