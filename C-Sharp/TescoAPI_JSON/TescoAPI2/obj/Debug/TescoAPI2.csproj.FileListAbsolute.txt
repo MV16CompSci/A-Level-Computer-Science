@@ -1,0 +1,28 @@
+C:\Users\jeremy.davis\Desktop\Visual Studio\TescoAPI2\TescoAPI2\bin\Debug\TescoAPI2.exe.config
+C:\Users\jeremy.davis\Desktop\Visual Studio\TescoAPI2\TescoAPI2\bin\Debug\TescoAPI2.exe
+C:\Users\jeremy.davis\Desktop\Visual Studio\TescoAPI2\TescoAPI2\bin\Debug\TescoAPI2.pdb
+C:\Users\jeremy.davis\Desktop\Visual Studio\TescoAPI2\TescoAPI2\obj\Debug\TescoAPI2.Form1.resources
+C:\Users\jeremy.davis\Desktop\Visual Studio\TescoAPI2\TescoAPI2\obj\Debug\TescoAPI2.Properties.Resources.resources
+C:\Users\jeremy.davis\Desktop\Visual Studio\TescoAPI2\TescoAPI2\obj\Debug\TescoAPI2.csproj.GenerateResource.Cache
+C:\Users\jeremy.davis\Desktop\Visual Studio\TescoAPI2\TescoAPI2\obj\Debug\TescoAPI2.exe
+C:\Users\jeremy.davis\Desktop\Visual Studio\TescoAPI2\TescoAPI2\obj\Debug\TescoAPI2.pdb
+C:\Users\jeremy.davis\Desktop\Visual Studio\TescoAPI2\TescoAPI2\obj\Debug\TescoAPI2.csprojResolveAssemblyReference.cache
+C:\Users\jeremy.davis\Desktop\Visual Studio\TescoAPI2\TescoAPI2\bin\Debug\System.Json.dll
+C:\Users\jeremy.davis\Desktop\Visual Studio\TescoAPI2\TescoAPI2\bin\Debug\System.Json.xml
+C:\Users\jeremy.davis\Desktop\Visual Studio\TescoAPI2\TescoAPI2\bin\Debug\Newtonsoft.Json.dll
+C:\Users\jeremy.davis\Desktop\Visual Studio\TescoAPI2\TescoAPI2\bin\Debug\Newtonsoft.Json.xml
+C:\Users\jeremy.davis\Desktop\TescoAPI - HTTP GET, JSON, Cursor, GridView, Picture, Icon Button, Disable button\TescoAPI2\bin\Debug\TescoAPI2.exe.config
+C:\Users\jeremy.davis\Desktop\TescoAPI - HTTP GET, JSON, Cursor, GridView, Picture, Icon Button, Disable button\TescoAPI2\obj\Debug\TescoAPI2.exe
+C:\Users\jeremy.davis\Desktop\TescoAPI - HTTP GET, JSON, Cursor, GridView, Picture, Icon Button, Disable button\TescoAPI2\obj\Debug\TescoAPI2.pdb
+C:\Users\jeremy.davis\Desktop\TescoAPI - HTTP GET, JSON, Cursor, GridView, Picture, Icon Button, Disable button\TescoAPI2\bin\Debug\TescoAPI2.exe
+C:\Users\jeremy.davis\Desktop\TescoAPI - HTTP GET, JSON, Cursor, GridView, Picture, Icon Button, Disable button\TescoAPI2\bin\Debug\TescoAPI2.pdb
+C:\Users\jeremy.davis\Desktop\TescoAPI - HTTP GET, JSON, Cursor, GridView, Picture, Icon Button, Disable button\TescoAPI2\bin\Debug\Newtonsoft.Json.dll
+C:\Users\jeremy.davis\Desktop\TescoAPI - HTTP GET, JSON, Cursor, GridView, Picture, Icon Button, Disable button\TescoAPI2\bin\Debug\Newtonsoft.Json.xml
+C:\Users\jeremy.davis\Desktop\TescoAPI - HTTP GET, JSON, Cursor, GridView, Picture, Icon Button, Disable button\TescoAPI2\bin\Debug\System.Json.xml
+C:\Users\jeremy.davis\Desktop\TescoAPI - HTTP GET, JSON, Cursor, GridView, Picture, Icon Button, Disable button\TescoAPI2\obj\Debug\TescoAPI2.csprojResolveAssemblyReference.cache
+C:\Users\jeremy.davis\Desktop\TescoAPI - HTTP GET, JSON, Cursor, GridView, Picture, Icon Button, Disable button\TescoAPI2\obj\Debug\TescoAPI2.Form1.resources
+C:\Users\jeremy.davis\Desktop\TescoAPI - HTTP GET, JSON, Cursor, GridView, Picture, Icon Button, Disable button\TescoAPI2\obj\Debug\TescoAPI2.Properties.Resources.resources
+C:\Users\jeremy.davis\Desktop\TescoAPI - HTTP GET, JSON, Cursor, GridView, Picture, Icon Button, Disable button\TescoAPI2\obj\Debug\TescoAPI2.csproj.GenerateResource.Cache
+C:\Users\jeremy.davis\Desktop\GitHub - TescoAPI\TescoAPI2\bin\Debug\TescoAPI2.exe.config
+C:\Users\jeremy.davis\Desktop\GitHub - TescoAPI\TescoAPI2\obj\Debug\TescoAPI2.exe
+C:\Users\jeremy.davis\Desktop\GitHub - TescoAPI\TescoAPI2\obj\Debug\TescoAPI2.pdb
