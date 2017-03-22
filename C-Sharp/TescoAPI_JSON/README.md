@@ -3,7 +3,7 @@ This project demonstrates the Tesco web API, and the use of JSON to interpret th
 
 The TESCO API (https://devportal.tescolabs.com/) allows developers to search the Tesco grocery product list for information such as product name, price and image.
 
-To compile the program (1) Set up a developer account from https://devportal.tescolabs.com/. Request aN Ocp-Apim-Subscription-Key and update the line "client.DefaultRequestHeaders.Add("Ocp-Apim-Subscription-Key", "<key goes here>");" with your key. (2) Install the Netwonsoft JSON library in Visual Studio. Click on Tools-Nuget Package Manager-Package Manager Console, and then type "Install-Package Newtonsoft.Json".
+To compile the program (1) Set up a developer account from https://devportal.tescolabs.com/. Request an Ocp-Apim-Subscription-Key and update the line "client.DefaultRequestHeaders.Add("Ocp-Apim-Subscription-Key", "<key goes here>");" with your key. (2) Install the Netwonsoft JSON library in Visual Studio. Click on Tools-Nuget Package Manager-Package Manager Console, and then type "Install-Package Newtonsoft.Json".
 
 To use the example program type in the name of an item of grocery item such as BANANA and click "Search".
 
