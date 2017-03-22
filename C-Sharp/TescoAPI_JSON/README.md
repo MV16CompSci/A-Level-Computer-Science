@@ -9,7 +9,7 @@ To use the example program type in the name of an item of grocery item such as B
 
 This project also demonstrates
     (1)  how the windows cursor may be changed, 
-    (2)  how the default button may be selected, 
+    (2)  how the default button may be assigned, 
     (3)  how to use a picturebox, 
     (4)  how to use a numericupdown, 
     (5)  how to popuplate a datagridview, 
